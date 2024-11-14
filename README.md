@@ -37,7 +37,7 @@ I’m doubling down on:
 I’m always up for discussing technology, ideas, and ways we can make digital spaces better. Reach out, let’s chat, and let’s build something that matters!
 
 Email: mainalynett42@gmail.com
-GitHub Playground: github.com/LynettMaina
+GitHub Playground: github.com/itslynett
 
 🔹 Turning imagination into innovation, one line at a time. 🔹
 
