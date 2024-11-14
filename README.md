@@ -15,7 +15,7 @@ Contact: mainalynett42@gmail.com
 💼 Skills & Superpowers
 I approach coding like a craftsperson with a chisel, carefully shaping the tools, designs, and systems needed to solve real-world challenges. Here’s my technical arsenal:
 
-Language/Tool	Expertise	Icon
+Language/Tool	Expertise	
 HTML	Expert	
 CSS	Pro	
 JavaScript	Advanced	
