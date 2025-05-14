@@ -1,6 +1,6 @@
 👋 Hey there, I’m Lynett Maina! 💡
 
-🌐 Cybersecurity Strategist | 💻 Front-End Alchemist | 🌱 Tech Visionary
+🌐 Cybersecurity Strategist | 💻 Full-stack  Alchemist | 🌱 Tech Visionary
 I'm Lynett, and I’m mastering the art and science of Web Development and Cyber Threat Intelligence at USIU, Africa. My journey? It’s all about creating a digital world that’s secure, innovative, and visually stunning. Every line of code, every script, every design choice—it all serves a purpose.
 
 "I’m not just coding; I’m crafting a future-proof digital experience."
@@ -16,10 +16,7 @@ Contact: mainalynett42@gmail.com
 I approach coding like a craftsperson with a chisel, carefully shaping the tools, designs, and systems needed to solve real-world challenges. Here’s my technical arsenal:
 
 Language/Tool	Expertise	
-HTML	Expert	
-CSS	Pro	
-JavaScript	Advanced	
-Python	Proficient	
+MERN STACK AND DJANGO STACK DEVELOPMENT
 
 🔐 Cybersecurity Skills: Risk Assessment, Threat Analysis, Vulnerability Management
 🔧 Tools: Git, VS Code, Chrome DevTools, and the magic of teamwork
